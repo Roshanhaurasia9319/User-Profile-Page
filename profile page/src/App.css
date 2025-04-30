@@ -1,0 +1,25 @@
+body{
+  font-family: sans-serif;
+  background-color: #e6ecf0;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.all-cards{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  margin: 150px auto;
+  max-width: 1200px;    
+}
+
